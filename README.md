@@ -19,9 +19,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 - [ ] ConInst (ECCV'2020)
 
 
-
-
-Some other methods are also supported in [projects using MMDetection](./docs/projects.md).
+Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) are also supported in.
 
 ## Installation
 
