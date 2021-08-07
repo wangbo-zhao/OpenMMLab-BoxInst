@@ -21,7 +21,7 @@ Results and models are available in the [model zoo](docs/model_zoo.md).
 
 Supported methods:
 
-- [x] [BoxInst (CVPR'2021)](configs/rpn)
+- [x] [BoxInst (CVPR'2021)](configs/boxinst)
 
 
 
