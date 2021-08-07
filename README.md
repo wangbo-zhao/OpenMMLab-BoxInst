@@ -21,9 +21,6 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) are also supported in.
 
-## Installation
-
-Please refer to [get_started.md](docs/get_started.md) for installation.
 
 ## Getting Started
 
