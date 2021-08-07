@@ -18,7 +18,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 - [x] [BoxInst (CVPR'2021)](configs/boxinst)
 - [ ] ConInst (ECCV'2020)
 
-COCO Instance Segmentation Baselines with [BoxInst (CVPR'2021)](configs/boxinst)
+COCO Instance Segmentation Baselines with [BoxInst](https://openaccess.thecvf.com/content/CVPR2021/html/Tian_BoxInst_High-Performance_Instance_Segmentation_With_Box_Annotations_CVPR_2021_paper.html)
 Name | box AP | mask AP | mask AP (test-dev)| download
 --- |:---:|:---:|:---:|:---:
 [BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 39.4 | 30.7 | - | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
