@@ -16,7 +16,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## Benchmark and model zoo
 
 - [x] [BoxInst (CVPR'2021)](configs/boxinst)
-- [ ] ConInst
+- [ ] ConInst (ECCV'2020)
 
 
 
