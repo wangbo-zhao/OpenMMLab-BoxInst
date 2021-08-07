@@ -11,11 +11,7 @@ This repository is the code that needs to be submitted for [OpenMMLab Algorithm 
 
 This project is released under the [Apache 2.0 license](LICENSE).
 
-## Changelog
 
-v2.14.0 was released in 29/06/2021.
-Please refer to [changelog.md](docs/changelog.md) for details and release history.
-A comparison between v1.x and v2.0 codebases can be found in [compatibility.md](docs/compatibility.md).
 
 ## Benchmark and model zoo
 
