@@ -18,11 +18,11 @@ This project is released under the [Apache 2.0 license](LICENSE).
 - [x] [BoxInst (CVPR'2021)](configs/boxinst)
 - [ ] ConInst (ECCV'2020)
 
-Name | inf. time | box AP | mask AP | mask AP (test-dev)| download
---- |:---:|:---:|:---:|:---:|:---:
-[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 14 FPS | 39.4 | 30.7 | - | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
-[BoxInst_MS_R_50_3x](MS_R_50_3x.yaml) | 14 FPS | 41.5 | 31.8 | 32.1 | [model](https://cloudstor.aarnet.edu.au/plus/s/Aabn3BEuq4HKiNK/download)
-[BoxInst_MS_R_101_1x](MS_R_101_1x.yaml) | 11 FPS | 41.4 | 32.2 | 32.5 | [model](https://cloudstor.aarnet.edu.au/plus/s/FiPXJJ1GdJtdO0w/download)
+Name | box AP | mask AP | mask AP (test-dev)| download
+--- |:---:|:---:|:---:|:---:
+[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 39.4 | 30.7 | - | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
+[BoxInst_MS_R_50_3x](MS_R_50_3x.yaml) | 41.5 | 31.8 | 32.1 | [model](https://cloudstor.aarnet.edu.au/plus/s/Aabn3BEuq4HKiNK/download)
+[BoxInst_MS_R_101_1x](MS_R_101_1x.yaml) | 41.4 | 32.2 | 32.5 | [model](https://cloudstor.aarnet.edu.au/plus/s/FiPXJJ1GdJtdO0w/download)
 
 
 Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) are also supported.
