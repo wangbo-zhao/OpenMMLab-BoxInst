@@ -21,7 +21,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 COCO Instance Segmentation Baselines with [BoxInst](https://openaccess.thecvf.com/content/CVPR2021/html/Tian_BoxInst_High-Performance_Instance_Segmentation_With_Box_Annotations_CVPR_2021_paper.html)
 Name | box AP | mask AP | mask AP (test-dev)| download
 --- |:---:|:---:|:---:|:---:
-[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 39.4 | 30.7 | - | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
+[BoxInst_MS_R_50_1x](boxinst_r50_caffe_fpn_coco_mstrain_1x.py) | 39.4 | 30.7 | - | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
 [BoxInst_MS_R_50_3x](MS_R_50_3x.yaml) | 41.5 | 31.8 | 32.1 | [model](https://cloudstor.aarnet.edu.au/plus/s/Aabn3BEuq4HKiNK/download)
 [BoxInst_MS_R_101_1x](MS_R_101_1x.yaml) | 41.4 | 32.2 | 32.5 | [model](https://cloudstor.aarnet.edu.au/plus/s/FiPXJJ1GdJtdO0w/download)
 
