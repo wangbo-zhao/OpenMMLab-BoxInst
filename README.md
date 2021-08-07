@@ -21,8 +21,8 @@ Results and models are available in the [model zoo](docs/model_zoo.md).
 
 Supported methods:
 
-- [x] [RPN (NeurIPS'2015)](configs/rpn)
-- [x] [Fast R-CNN (ICCV'2015)](configs/fast_rcnn)
+- [x] [BoxInst (CVPR'2021)](configs/rpn)
+
 
 
 
