@@ -21,7 +21,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ###BozInst
 Name | box AP | mask AP | download
 --- |:---:|:---:|:---:|
-[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | | 39.4 | 30.7 | - | 
+[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 39.4 | 30.7 | - | 
 
 
 <!-- Name | box AP | mask AP | download
