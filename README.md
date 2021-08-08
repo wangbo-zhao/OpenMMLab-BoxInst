@@ -35,6 +35,9 @@ Our project is totally based on MMCV and MMDetection. Please see [get_started.md
 
 ### Train
 Please see [doc](https://mmdetection.readthedocs.io/en/latest/1_exist_data_model.html#train-predefined-models-on-standard-datasets) to start training.
+```sheel
+CUDA_VISIBLE_DEVICES=0,1,2,3 PORT=29500 ./tools/dist_train.sh configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py 4
+```
 
 ### Inference and Eval
 ```sheel
