@@ -33,6 +33,11 @@ Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) a
 Our project is totally based on MMCV and MMDetection. Please see [get_started.md](docs/get_started.md) for the basic usage of MMDetection.
 
 
+### Train
+
+### Inference and Eval
+
+
 
 
 
