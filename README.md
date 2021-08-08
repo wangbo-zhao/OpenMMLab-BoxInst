@@ -24,12 +24,12 @@ Name | box AP | mask AP | download
 [BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 39.4 | 30.7 | - | 
 
 
-<!-- Name | box AP | mask AP | download
---- |:---:|:---:｜:---:
+-- Name | box AP | mask AP | download
+--- |:---:|:---:｜:---:|
 [BoxInst_MS_R_50_1x](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py) | 0.390| 0.304| [model](https://moxkl67q65.feishu.cn/file/boxcnay178uhZwiYBmzRfV20TEb)
 [BoxInst_MS_R_50_90k](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_90k.py) |0.388 | 0.302| [model](https://moxkl67q65.feishu.cn/file/boxcnvRGKQCCvjjZAH5udD0gA9b)
 [BoxInst_MS_R_101_90k](boxinst_r101_caffe_fpn_coco_mstrain_90k.py) | 0.41| 0.318| [model]
-(https://moxkl67q65.feishu.cn/file/boxcnNoGdGIQnwuQFzoWWXppcuh) -->
+(https://moxkl67q65.feishu.cn/file/boxcnNoGdGIQnwuQFzoWWXppcuh)
 
 Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) are also supported.
 
