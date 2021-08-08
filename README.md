@@ -18,7 +18,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 - [x] [BoxInst (CVPR'2021)](configs/boxinst)
 - [ ] ConInst (ECCV'2020)
 
-###BozInst
+### BoxInst
 Name | box AP | mask AP | download
 --- |:---:|:---:|:---:
 [BoxInst_MS_R_50_1x](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py) | 0.390| 0.304| [model](https://moxkl67q65.feishu.cn/file/boxcnay178uhZwiYBmzRfV20TEb)
