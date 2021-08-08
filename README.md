@@ -38,7 +38,7 @@ Please see [doc](https://mmdetection.readthedocs.io/en/latest/1_exist_data_model
 ```sheel
 CUDA_VISIBLE_DEVICES=0,1,2,3 PORT=29500 ./tools/dist_train.sh configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py 4
 ```
-
+please following  linear [linear scaling rule](https://arxiv.org/abs/1706.02677) to adjust batch size, learning rate and iterations.
 ### Inference and Eval
 ```sheel
 python tools/test.py configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py work_dirs/boxinst_r50_caffe_fpn_coco_mstrain_1x.py/latest.pth --eval bbox segm
