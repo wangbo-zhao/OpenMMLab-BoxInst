@@ -21,10 +21,9 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ###BozInst
 Name | box AP | mask AP | mask AP (test-dev)| download
 --- |:---:|:---:|:---:|:---:
-[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) |  | | | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
-[BoxInst_MS_R_50_3x](MS_R_50_3x.yaml) |  |  | | [model](https://cloudstor.aarnet.edu.au/plus/s/Aabn3BEuq4HKiNK/download)
-[BoxInst_MS_R_101_1x](MS_R_101_1x.yaml) |  |  |  | [model](https://cloudstor.aarnet.edu.au/plus/s/FiPXJJ1GdJtdO0w/download)
-
+[BoxInst_MS_R_50_1x](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py) | | | - | []()
+[BoxInst_MS_R_50_90k](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_90k.py) | | | - | []()
+[BoxInst_MS_R_101_90k](boxinst_r101_caffe_fpn_coco_mstrain_90k.py) | | | - | []()
 
 Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) are also supported.
 
