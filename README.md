@@ -34,9 +34,7 @@ Our project is totally based on MMCV and MMDetection. Please see [get_started.md
 
 
 ### Train
-```shell
-python
-```
+Please see [doc](https://mmdetection.readthedocs.io/en/latest/1_exist_data_model.html#train-predefined-models-on-standard-datasets) to train.
 
 ### Inference and Eval
 ```sheel
