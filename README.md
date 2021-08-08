@@ -39,7 +39,9 @@ python
 ```
 
 ### Inference and Eval
-
+```sheel
+python tools/test.py configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py work_dirs/boxinst_r50_caffe_fpn_coco_mstrain_1x.py/latest.pth --eval bbox segm
+```
 
 
 
