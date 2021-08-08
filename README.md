@@ -20,8 +20,8 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ###BozInst
 Name | box AP | mask AP | download
---- |:---:|:---:|:---:|:---:
-[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | 14 FPS | 39.4 | 30.7 | - | [model](https://cloudstor.aarnet.edu.au/plus/s/odj8VwqgRT8TMsR/download)
+--- |:---:|:---:|:---:|
+[BoxInst_MS_R_50_1x](MS_R_50_1x.yaml) | | 39.4 | 30.7 | - | 
 
 
 <!-- Name | box AP | mask AP | download
