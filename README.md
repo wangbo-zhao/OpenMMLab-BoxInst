@@ -27,6 +27,8 @@ This project is released under the [Apache 2.0 license](LICENSE).
 | [BoxInst_MS_R_50_90k](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_90k.py) |  0.388 |  0.302  | [log](https://moxkl67q65.feishu.cn/file/boxcnmyWDlC0n1HVXadUMoMOj6d) | [model](https://moxkl67q65.feishu.cn/file/boxcnvRGKQCCvjjZAH5udD0gA9b) |
 | [BoxInst_MS_R_101_90k](boxinst_r101_caffe_fpn_coco_mstrain_90k.py)               |  0.410 |  0.318  |                                   -                                  | [model](https://moxkl67q65.feishu.cn/file/boxcnNoGdGIQnwuQFzoWWXppcuh) |
 
+| [BoxInst_MS_R_101_1x](boxinst_r101_caffe_fpn_coco_mstrain_1x.py)               |  0.412 |  0.318  |                                   -                                  | [model](https://moxkl67q65.feishu.cn/file/boxcnYIcQr0quTKmTiMjOOVswVe) |
+
 Some other methods in [MMDetection](https://github.com/open-mmlab/mmdetection) are also supported.
 
 ## Getting Started
