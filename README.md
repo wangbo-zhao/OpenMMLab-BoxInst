@@ -24,6 +24,8 @@ This project is released under the [Apache 2.0 license](LICENSE).
 | Name                                                                             | box AP | mask AP |                                  log                                 | download                                                               |
 |----------------------------------------------------------------------------------|:------:|:-------:|:--------------------------------------------------------------------:|------------------------------------------------------------------------|
 | [BoxInst_MS_R_50_1x](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py)   |  0.390 |  0.304  | [log](https://moxkl67q65.feishu.cn/file/boxcnhbdZiFdUtUbURyCILX94xf) | [model](https://moxkl67q65.feishu.cn/file/boxcnay178uhZwiYBmzRfV20TEb) |
+| [BoxInst_MS_R_50_2x](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_2x.py)   |   |    | []() |
+
 | [BoxInst_MS_R_50_90k](configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_90k.py) |  0.388 |  0.302  | [log](https://moxkl67q65.feishu.cn/file/boxcnmyWDlC0n1HVXadUMoMOj6d) | [model](https://moxkl67q65.feishu.cn/file/boxcnvRGKQCCvjjZAH5udD0gA9b) |
 | [BoxInst_MS_R_101_1x](configs/boxinst/boxinst_r101_caffe_fpn_coco_mstrain_1x.py)               |  0.412 |  0.318  |  [log](https://moxkl67q65.feishu.cn/file/boxcnNgezrzERqqqOqyx5knhG0g)                                        | [model](https://moxkl67q65.feishu.cn/file/boxcnYIcQr0quTKmTiMjOOVswVe) |
 | [BoxInst_MS_R_101_90k](configs/boxinst/boxinst_r101_caffe_fpn_coco_mstrain_90k.py)               |  0.410 |  0.318  |                                   -                                  | [model](https://moxkl67q65.feishu.cn/file/boxcnNoGdGIQnwuQFzoWWXppcuh) |
