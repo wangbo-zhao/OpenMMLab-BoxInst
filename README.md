@@ -57,3 +57,4 @@ boxinst_r50_caffe_fpn_coco_mstrain_2x is added! Longer training better performan
 
 - [MMCV](https://github.com/open-mmlab/mmcv): OpenMMLab foundational library for computer vision.
 - [MMDetection](https://github.com/open-mmlab/mmdetection): OpenMMLab detection toolbox and benchmark.
+- [Adelaidet](https://github.com/aim-uofa/AdelaiDet)
