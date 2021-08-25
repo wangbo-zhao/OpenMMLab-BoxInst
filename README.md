@@ -22,7 +22,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 | Name                                                                             | box AP | mask AP |                                  log                                 | download                                                               |
 |----------------------------------------------------------------------------------|:------:|:-------:|:--------------------------------------------------------------------:|------------------------------------------------------------------------|
-| [condInst_MS_R_50_1x]()   |  0.393 |  0.349 | | [model](https://moxkl67q65.feishu.cn/file/boxcnMkbcVsXTIHTd9SQgHhA7Xb) |
+| [condInst_MS_R_50_1x]()   |  0.393 |  0.349 |[log](https://moxkl67q65.feishu.cn/file/boxcnKFQKRMTQ2Ms0Ah50yONd3b) | [model](https://moxkl67q65.feishu.cn/file/boxcnMkbcVsXTIHTd9SQgHhA7Xb) |
 
 
 ### BoxInst
