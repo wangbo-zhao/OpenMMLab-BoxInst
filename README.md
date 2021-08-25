@@ -16,7 +16,14 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## Benchmark and model zoo
 
 - [x] [BoxInst (CVPR'2021)](configs/boxinst)
-- [ ] ConInst (ECCV'2020)
+- [x] ConInst (ECCV'2020)
+- [ ] 
+### CondInst
+
+| Name                                                                             | box AP | mask AP |                                  log                                 | download                                                               |
+|----------------------------------------------------------------------------------|:------:|:-------:|:--------------------------------------------------------------------:|------------------------------------------------------------------------|
+| [condInst_MS_R_50_1x]()   |  0.393 |  0.349 | [log](） | [model](https://moxkl67q65.feishu.cn/file/boxcnMkbcVsXTIHTd9SQgHhA7Xb) |
+
 
 ### BoxInst
 
