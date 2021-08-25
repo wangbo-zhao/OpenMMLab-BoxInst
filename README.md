@@ -17,7 +17,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 - [x] [BoxInst (CVPR'2021)](configs/boxinst)
 - [x] ConInst (ECCV'2020)
-- [ ] 
+
 ### CondInst
 
 | Name                                                                             | box AP | mask AP |                                  log                                 | download                                                               |
