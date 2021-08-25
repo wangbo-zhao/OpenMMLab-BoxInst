@@ -46,7 +46,8 @@ please following  linear [linear scaling rule](https://arxiv.org/abs/1706.02677)
 python tools/test.py configs/boxinst/boxinst_r50_caffe_fpn_coco_mstrain_1x.py work_dirs/boxinst_r50_caffe_fpn_coco_mstrain_1x.py/latest.pth --eval bbox segm
 ```
 
-
+### 🔥🔥🔥New 2021.08.25🔥🔥🔥 
+boxinst_r50_caffe_fpn_coco_mstrain_2x is added! Longer training better performance!
 
 ### 🔥🔥🔥New 2021.08.21🔥🔥🔥 
 [OBBDetection](https://github.com/jbwang1997/OBBDetection) is an oriented object detection toolbox based on MMdetection. What an awesome work from [jbwang1997](https://github.com/jbwang1997)!!!
